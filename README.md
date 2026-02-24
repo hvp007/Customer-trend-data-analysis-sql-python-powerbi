@@ -90,7 +90,7 @@ Report & Presentation
 
 ### Step 1 — Clone the repository
 ```bash
-git clone https://github.com/YOUR-USERNAME/customer-trends-data-analysis-SQL-Python-PowerBI.git
+git clone https://github.com/hvp007/customer-trends-data-analysis-SQL-Python-PowerBI.git
 cd customer-trends-data-analysis-SQL-Python-PowerBI
 ```
 
